@@ -16,4 +16,4 @@ public class SuperDepartment {
 	public String isTodayHoliday() {
 		return "Today is not a holiday";
 	}
-}
+} 

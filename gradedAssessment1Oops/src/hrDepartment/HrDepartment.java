@@ -20,3 +20,4 @@ public class HrDepartment extends SuperDepartment {
 		return "team Lunch";
 	}
 }
+ 
